@@ -7,6 +7,6 @@ The chatbot was built with RASA framework. The dataset was collected by both of 
 several hyperparameters. NOw I got access to GPT-3 licence, I just wanted to play with it and see how it behaves.
 I am not sure how far this will go, so a seperate repo :D
 
-Dataset can be found at main repo. The trained models can be obtained at my google drive:
+Dataset can be found at original Therapist-bot repo. The trained models can be obtained at my google drive:
 https://drive.google.com/drive/folders/17c568342JhJpM3lDfGsdEulHKfl-tRpT
 
